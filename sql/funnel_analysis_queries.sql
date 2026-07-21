@@ -1,4 +1,4 @@
--- Query 1: View Dataset
+-- Query 1: View Dataset SQL 
 
 SELECT *
 FROM funnel_data;
